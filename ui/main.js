@@ -7,7 +7,7 @@ var element = document.getElementById('main-text');
 element.innerHTML = 'New value';
 
 //move the image
-var img = document.getElementById('maddy');
+var img = document.getElementById('madi');
 img.oncliclk = function() {
   img.style.marginLeft = '1000px';
  
