@@ -9,6 +9,7 @@ element.innerHTML = 'New value';
 //move the image
 var img = document.getElementById('madi');
 img.oncliclk = function() {
-  img.style.marginLeft = '100px';
+ 
+  img.style.marginLeft = '1000px';
  
 };
